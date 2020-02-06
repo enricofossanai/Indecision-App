@@ -1,4 +1,4 @@
-
+/*
 const app = {
     title: 'VIsibility Toggle',
     details: 'Here are some details'
@@ -42,3 +42,4 @@ const appRoot = document.getElementById('app');
 var showingDetails = false;
 
 render()
+*/
